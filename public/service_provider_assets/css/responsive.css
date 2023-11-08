@@ -1,0 +1,414 @@
+@media only screen and (max-width:1750px){
+	.routeLink {
+		font-size: 15px;
+		top: 25px;
+		right: 25px;
+	}
+	.routeLink a {
+		max-width: 85px;
+		height: 55px;
+		font-size: 15px;
+	}
+	.bckBtn {
+		top: 25px;
+		left: 025px;
+	}
+	.gen-wrap, .header-bar {
+		padding: 30px 40px;
+	}
+}
+@media only screen and (max-width:1600px){}
+@media only screen and (max-width:1540px){
+	.catWarp {
+		padding: 35px 25px;
+	}
+	.indexCard .desc {
+		font-size: 15px;
+		white-space: nowrap;
+	}
+	.catCard {
+		height: 180px;
+	}
+	.catCard .title {
+		font-size: 15px;
+	}
+	.topHeading.type2 .headingMain {
+		font-size: 30px;
+	}
+	.catCard .iconImg img {
+		max-width: 40px;
+	}
+	.indexBar .logInput {
+		max-width: 300px;
+		margin-left: 24px;
+	}
+	.indexBar .leftWrap {
+		justify-content: flex-start;
+	}
+	.logInput .input1 {
+		height: 55px;
+		font-size: 16px;
+	}
+	.bookBtn {
+		max-width: 180px;
+		height: 55px;
+		font-size: 16px;
+	}
+	.indexCard {
+		border-radius: 10px;
+	}
+	.searchBar {
+		max-width: 260px;
+	}
+	.header-bar .leftCol {
+		max-width: 350px;
+	}
+	.genCard1 img {
+		width: 60px;
+		height: 60px;
+	}
+	.genCard1 .title, .genCard1 .price {
+		font-size: 18px;
+	}
+	.genCard1 .desc {
+		font-size: 14px;
+	}
+	.cardBtn {
+		width: 100%;
+		height: 45px;
+		font-size: 15px;
+	}
+	.genCard1 {
+		padding: 20px;
+		flex-direction: column;
+	}
+	.genCard1 .textBox {
+		width: 100%;
+		padding-left: 0;
+		padding-top: 12px;
+	}
+	.logHeading {
+		font-size: 30px;
+	}
+	.logDesc {
+		font-size: 18px;
+	}
+	.logBtn {
+		width: 100%;
+		height: 60px;
+		font-size: 16px;
+	}
+	.frgtPass {
+		font-size: 16px;
+	}
+	.toggleBtn {
+		width: 45px;
+		height: 45px;
+		font-size: 22px;
+	}
+	.serviceBox1 .title {
+		font-size: 20px;
+	}
+	.subsCard {
+		max-width: 380px;
+		margin: 5px;
+		padding: 35px 20px 60px 20px;
+	}
+	.subsCard ul .desc {
+		font-size: 15px;
+		text-align: center;	
+	}
+	.subsCard .title {
+		font-size: 20px;
+		line-height: 1;
+	}
+	.planBtn {
+		max-width: 195px;
+		height: 55px;
+	}
+}
+@media only screen and (max-width:1440px){}
+@media only screen and (max-width:1366px){}
+@media only screen and (max-width:1280px){
+	.gen-wrap {
+		padding: 30px 24px;
+	}
+	.header-bar {
+		padding: 15px 24px;
+	}
+	.headingMain {
+		font-size: 22px;
+	}
+	.indexBar .logInput {
+		max-width: 200px;
+	}
+	.topBtn {
+		width: 42px;
+		height: 42px;
+	}
+	.catWarp {
+		padding: 20px;
+	}
+	.serviceWrap {
+		padding: 35px 35px;
+	}
+	.profileRow {
+		justify-content: center;
+		flex-direction: column;
+	}
+	.myProfileBox {
+		max-width: 100%;
+		padding: 35px;
+	}
+	.myProfileTable {
+		width: 100%;
+		margin-top: 24px;
+	}
+	.myProfileBox .infoWrap p span {
+		font-size: 15px;
+	}
+	.licenseBox {
+		margin: 5px;
+	}
+	.paymentType {
+		margin: 5px 0px;
+	}
+	.paymentBox {
+		margin-top: 40px;
+	}
+	.cNumber {
+		font-size: 18px;
+	}
+	.noticeBox .desc {
+		font-size: 16px;
+	}
+	.chatList {
+		max-width: 345px;
+	}
+	.chatContent {
+		width: calc(100% - 345px)!important;
+	}
+	.chatName {
+		font-size: 15px;
+		padding-left: 15px;
+	}
+	.msgCounts {
+		font-size: 10px;
+		width: 25px;
+		height: 25px;
+	}
+	.notifiactionWrap {
+		top: 60px;
+		right: 110px;
+	}
+}
+@media only screen and (max-width:1024px){
+	
+}
+@media only screen and (max-width:991px){
+	.initial-row {
+		flex-direction: column;
+	}
+	.initial-row .leftCol {
+		width: 100%;
+		display: none;
+	}
+	.initial-row .rightCol {
+		width: 100%;
+		padding: 30px 15px!important;
+	}
+	.sepraterLine:before {
+		display: none;
+	}
+	.sepraterLine:after {
+		display: none;
+	}
+	.digit-group input {
+		width: 45px;
+		height: 45px;
+	}
+	.bckBtn {
+		display: none;
+	}
+	.routeLink {
+		top: 10px;
+		right: 10px;
+	}
+	.routeLink a {
+		height: 40px;
+		font-size: 14px;
+	}
+	.circle, .circle2 {
+		display: none;
+	}
+	.serviceBox1 {
+		margin-bottom: 24px;
+		padding: 20px;
+	}
+	.serviceBox1 .addCard {
+		font-size: 14px;
+	}
+	.serviceWrap {
+		flex-direction: column;
+	}
+	.profileBox {
+		max-width: 100%;
+		width: 100%;
+	}
+	.profileInfo {
+		width: 100%;
+		padding-left: 0;
+		border-left: none;
+	}
+	.popupBtn {
+		width: 45px;
+		height: 45px;
+	}
+	.popupBtns {
+		max-width: 110px;
+	}
+	.reviewBtn {
+		max-width: 180px;
+		height: 55px;
+		font-size: 18px;
+		position: relative;
+		top: auto;
+		right: -15px;
+		background: var(--color-2);
+	}
+	.skills {
+		max-width: 120px;
+	}
+	.serviceTab .nav-link {
+		font-size: 15px;
+	}
+	.table>thead tr th {
+		font-size: 15px;
+	}
+	.reviewCard {
+		padding: 15px;
+	}
+	.subscriptionRow {
+		flex-direction: column;
+	}
+	.subsCard {
+		max-width: 100%;
+		margin-bottom: 40px;
+	}
+	.subsCard:hover {
+		transform: scale(1);
+	}
+	.subsBtn {
+		flex-direction: column;
+	}
+	.subsBtn .genBtn {
+		margin-bottom: 5px;
+	}
+	.gen-wrap .topHeading {
+		flex-wrap: wrap;
+	}
+	.chatrowMain {
+		flex-direction: column;
+	}
+	.chatList {
+		max-width: 100%;
+	}
+	.chatContent {
+		width: 100%!important;
+	}
+	.chatWrap {
+		padding: 20px;
+	}
+	.sendBtn2 {
+		width: 90px;
+		height: 35px;
+		font-size: 15px;
+	}
+	.typeMessage {
+		font-size: 15px;
+		height: 50px;
+		padding-top: 13px;
+	}
+	.typeBox {
+		height: 50px;
+	}
+
+	.chatItem .textMessage {
+		padding: 15px 15px 15px 15px;
+	}
+	.verificationBox .heading {
+		font-size: 18px;
+	}
+	.verificationBox .price {
+		font-size: 45px;
+	}
+	.verificationBox .textBox {
+		padding: 35px 35px 30px 35px;
+	}
+	.genModal .modal-body {
+		padding: 30px 24px;
+	}
+}
+@media only screen and (max-width:767px){}
+@media only screen and (max-width:660px){}
+@media only screen and (max-width:575px){
+	.header-bar {
+		padding: 15px 10px;
+	}
+	.topBtn {
+		width: 30px;
+		height: 30px;
+	}
+	.sosBtn img, .notiBtn img {
+		max-width: 20px;
+	}
+	.subsBtn .genBtn {
+		max-width: 90px;
+		height: 40px;
+	}
+	.searchBar input {
+		font-size: 14px;
+		padding: 5px 20px 5px 30px;
+	}
+	.searchIcon {
+		left: 8px;
+		max-width: 13px;
+	}
+	.toggleBtn {
+		width: 35px;
+		height: 35px;
+		font-size: 18px;
+		position: absolute;
+		right: 5px;
+		top: 68px;
+		z-index: 999;
+	}
+	.notifiactionWrap {
+		right: 5px;
+		max-width: 300px;
+	}
+	.notificationItem {
+		padding: 12px 10px;
+	}
+	.qstion {
+		font-size: 16px;
+	}
+	.desc {
+		font-size: 13px;
+	}
+	.notifiactionWrap .heading {
+		font-size: 20px;
+	}
+	.nHeader {
+		padding: 15px 10px;
+	}
+	.navItem {
+		padding: 15px 20px;
+	}
+	.sideMenu {
+		max-width: 250px;
+	}
+}
+@media only screen and (max-width:480px){}
+@media only screen and (max-width:375px){}
+@media only screen and (max-width:340px){}
